@@ -1,3 +1,4 @@
 class Queue:
  def enqueue():
 element=input("enter the elements :")
+print(Queue)
